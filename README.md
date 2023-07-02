@@ -12,4 +12,4 @@ The three files are
 3.关闭架设环境
 You will not need the three bat files of similar names downloaded from the repository.
 The fourth file is my.inf, which is the default database file to be used upon initiation of the server. 
-The file is to be placed under the path of emulator/usr/local/mysql 
+The file is to be placed under the path of ROemulator/usr/local/mysql 
